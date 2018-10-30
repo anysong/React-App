@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/anysong/React-App/issues"
   },
-  "homepage": "https://github.com/anysong/React-App#readme"
+  "homepage": "https://github.com/anysong/React-App#readme",
+  "devDependencies": {
+    "webpack": "3.10.0"
+  }
 }

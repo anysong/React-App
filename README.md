@@ -1,3 +1,6 @@
 # React-App
 react 项目脚手架
-#### start
+#### yarn
+#### react
+
+npm init -y
